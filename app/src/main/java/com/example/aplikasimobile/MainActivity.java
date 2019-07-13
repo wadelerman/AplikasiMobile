@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
 
     TextView hasilNama;
     EditText masukNama;
-    
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
