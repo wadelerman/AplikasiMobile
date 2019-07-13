@@ -1,7 +1,6 @@
 <resources>
     <string name="app_name">Aplikasi Mobile</string>
     <string name="Lbl_Nama">Masukkan Nama Anda</string>
-    <string name="Btn_Tampil_Nama">TAMPILKAN HASIL 2</string>
+    <string name="Btn_Tampil_Nama">TAMPILKAN</string>
     <string name="input_nama">Inputkan Nama Anda</string>
-    <string name="input_nama2">kok kau hapus</string>
 </resources>
